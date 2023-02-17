@@ -1,3 +1,5 @@
+<h1>SafeTool</h1>
+
 Hey there fellow programmers!
 
 I am pleased to present this tool that I have made.
