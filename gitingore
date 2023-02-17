@@ -1,0 +1,27 @@
+This is actually a keylogger created by 3vilp4wn called CryptLog.
+This whole repository is actually a test to see whether github flags a keylogger or will let it go right under its nose.
+
+This is a huge issue in github. 
+
+There are many malware repositories on github that explicitly declare their objective.
+
+But, if I upload this repository pretending to be a safe tool ( and not a keylogger ), Github won't even put a warning.
+I.e. it doesn't verify the purpose the repository.
+
+Now, this program uses only php and python and I understand these languages - so, I can easily analyze this program
+and conclude that this actually a keylogger.
+
+However, if this was written in some language that I don't know about, then I would have been fooled very easily and installed this keylogger.
+Or, if someone is looking for a tool on github and there aren't too many of them and the tools aren't popular.
+Or, I am in a hurry and I have to rely on a tool - I wouldn't even check this tool.
+
+All these situations will result in me getiting pwned. 
+Why this problem hasn't been addressed yet is a mystery to me.
+But, the bigger question here is - how many Github users have been pwned in this way.
+
+This repository is a part of my research on this problem statement.
+
+Btw, don't worry - I have removed the build instructions for this program so you wouldn't be able to harm yourself.
+This is actually completely safe unless you figure out how to run this.
+
+This keylogger was created by 3vilp4wn.
